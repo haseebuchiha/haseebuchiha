@@ -22,9 +22,9 @@ Outside client work I run a self-hosted *AI Factory* at home — a little crew o
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[LaunchBased](https://github.com/haseebuchiha/launchbased-command-center)** | CrewAI multi-agent system that turns a natural-language brief into a fully built + deployed Next.js SaaS app | `CrewAI` `Python` `Claude` `Next.js` `Vercel` |
-| **[Cleaning Council](https://github.com/haseebuchiha/cleaning-council)** | Production retrieval service — hybrid vector + BM25 on Qdrant, exposed to agents over MCP | `FastAPI` `Qdrant` `Ollama` `MCP` |
-| **[Council AI](https://github.com/haseebuchiha/counsil-ai)** | Multi-tenant SaaS automating UK councillor enquiry handling, AI responses + Stripe billing | `Next.js` `PostgreSQL` `Prisma` `Stripe` |
+| **LaunchBased** | CrewAI multi-agent system that turns a natural-language brief into a fully built + deployed Next.js SaaS app | `CrewAI` `Python` `Claude` `Next.js` `Vercel` |
+| **Cleaning Council** | Production retrieval service — hybrid vector + BM25 on Qdrant, exposed to agents over MCP | `FastAPI` `Qdrant` `Ollama` `MCP` |
+| **Council AI** | Multi-tenant SaaS automating UK councillor enquiry handling, AI responses + Stripe billing | `Next.js` `PostgreSQL` `Prisma` `Stripe` |
 | **[Silvr](https://github.com/haseebuchiha/silvr)** | Multi-channel AI gateway with extensible messaging integrations | `TypeScript` `LLM` `Messaging` |
 | **ApplyFast** ([live](https://applyfast.tech)) | AI resume-generation platform — LlamaIndex retrieval + pgvector semantic search | `Next.js` `LlamaIndex` `pgvector` |
 | **AI Factory** | Self-hosted crew of role-specialised local-LLM agents, Discord-controlled, cron-autonomous | `Python` `LM Studio` `Discord` `systemd` |
