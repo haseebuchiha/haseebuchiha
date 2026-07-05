@@ -1,15 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&height=52&lines=Haseeb+Arshad" alt="Haseeb Arshad" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=F59E0B&center=true&vCenter=true&width=760&height=56&lines=Haseeb+Arshad" alt="Haseeb Arshad" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=9198A1&center=true&vCenter=true&width=720&height=32&lines=Senior+AI+%26+Full-Stack+Engineer;RAG+%C2%B7+Multi-Agent+Systems+%C2%B7+LLM-powered+products;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+self-hosted+local+inference" alt="roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&pause=1200&color=9198A1&center=true&vCenter=true&width=760&height=30&lines=Senior+AI+%26+Full-Stack+Engineer;RAG+%C2%B7+Multi-Agent+Systems+%C2%B7+LLM-powered+products;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+self-hosted+local+inference" alt="roles" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haseebuchiha/haseebuchiha/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haseebuchiha/haseebuchiha/output/github-snake.svg" />
+  <img alt="my contribution graph, eaten by a snake" src="https://raw.githubusercontent.com/haseebuchiha/haseebuchiha/output/github-snake-amber.svg" width="100%" />
+</picture>
 
 <p>
   <a href="https://www.linkedin.com/in/haseeb-arshad/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:haseeb9009@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://applyfast.tech"><img alt="Website" src="https://img.shields.io/badge/applyfast.tech-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <img alt="Lahore" src="https://img.shields.io/badge/Lahore,%20PK-6B7280?style=for-the-badge&logo=googlemaps&logoColor=white">
-  <img alt="views" src="https://komarev.com/ghpvc/?username=haseebuchiha&style=for-the-badge&color=F59E0B&label=PROFILE+VIEWS">
+  <img alt="views" src="https://komarev.com/ghpvc/?username=haseebuchiha&style=for-the-badge&color=F59E0B&label=VIEWS">
 </p>
 
 </div>
@@ -18,26 +26,53 @@ I build applied-AI systems end to end — **Retrieval-Augmented Generation**, **
 
 > Outside client work I run a self-hosted **AI Factory** at home — a little crew of local LLM agents I'm forever breaking and rebuilding.
 
-## 🚀 Featured work
+<h3>⚡ Selected work</h3>
 
-| Project | What it is | Stack |
-|---|---|---|
-| **LaunchBased** | CrewAI multi-agent system that turns a natural-language brief into a fully built + deployed Next.js SaaS app | `CrewAI` · `Claude` · `Next.js` · `Vercel` |
-| **Cleaning Council** | Production retrieval service — hybrid vector + BM25 on Qdrant, exposed to agents over MCP | `FastAPI` · `Qdrant` · `Ollama` · `MCP` |
-| **Council AI** | Multi-tenant SaaS automating UK councillor enquiry handling — AI responses + Stripe billing | `Next.js` · `PostgreSQL` · `Prisma` · `Stripe` |
-| **[Silvr](https://github.com/haseebuchiha/silvr)** | Multi-channel AI gateway with extensible messaging integrations | `TypeScript` · `LLM` · `Messaging` |
-| **[ApplyFast](https://applyfast.tech)** | AI resume-generation platform — LlamaIndex retrieval + pgvector semantic search | `Next.js` · `LlamaIndex` · `pgvector` |
-| **AI Factory** | Self-hosted crew of role-specialised local-LLM agents — Discord-controlled, cron-autonomous | `Python` · `LM Studio` · `Discord` · `systemd` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>LaunchBased</b><br/>
+      <sub>CrewAI multi-agent system that turns a natural-language brief into a fully built + deployed Next.js SaaS app.</sub><br/>
+      <code>CrewAI</code> <code>Claude</code> <code>Next.js</code> <code>Vercel</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Cleaning Council</b><br/>
+      <sub>Production retrieval service — hybrid vector + BM25 on Qdrant, exposed to agents over MCP.</sub><br/>
+      <code>FastAPI</code> <code>Qdrant</code> <code>Ollama</code> <code>MCP</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Council AI</b><br/>
+      <sub>Multi-tenant SaaS automating UK councillor enquiry handling — AI responses + Stripe billing.</sub><br/>
+      <code>Next.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Stripe</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://applyfast.tech">ApplyFast</a></b><br/>
+      <sub>AI resume-generation platform — LlamaIndex retrieval + pgvector semantic search.</sub><br/>
+      <code>Next.js</code> <code>LlamaIndex</code> <code>pgvector</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/haseebuchiha/silvr">Silvr</a></b><br/>
+      <sub>Multi-channel AI gateway with extensible messaging integrations.</sub><br/>
+      <code>TypeScript</code> <code>LLM</code> <code>Messaging</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>AI Factory</b><br/>
+      <sub>Self-hosted crew of role-specialised local-LLM agents — Discord-controlled, cron-autonomous.</sub><br/>
+      <code>Python</code> <code>LM Studio</code> <code>Discord</code> <code>systemd</code>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Stack
+<h3>🧰 Toolbox</h3>
 
-**Core**
+<a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,rails,postgres,redis,docker,aws,gcp,vercel,graphql,git" alt="stack" /></a>
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,ts,react,nextjs,tailwind,nodejs,rails" alt="core stack" /></a><br/>
-<a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,gcp,vercel,git,graphql" alt="infra stack" /></a>
-
-**AI &amp; Retrieval** &nbsp;
-![RAG](https://img.shields.io/badge/RAG-F59E0B?style=flat-square&logoColor=white)
+<sub><b>AI &amp; retrieval</b></sub>&nbsp;
+![RAG](https://img.shields.io/badge/RAG-F59E0B?style=flat-square)
 ![Graph RAG](https://img.shields.io/badge/Graph_RAG-F59E0B?style=flat-square)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-F59E0B?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-1e1e1e?style=flat-square)
@@ -50,21 +85,13 @@ I build applied-AI systems end to end — **Retrieval-Augmented Generation**, **
 ![Neo4j](https://img.shields.io/badge/Neo4j-1e1e1e?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-1e1e1e?style=flat-square)
 
-## 📊 GitHub
+<br/>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=haseebuchiha&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=9198A1&dates=9198A1&stroke=9198A1&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=9198A1" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haseebuchiha/haseebuchiha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haseebuchiha/haseebuchiha/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/haseebuchiha/haseebuchiha/output/github-snake-amber.svg" />
-</picture>
-
-</div>
-
-<div align="center">
-<br/>
+<br/><br/>
 <sub>Always happy to connect with fellow builders and anyone doing fun things with AI.</sub>
+
 </div>
