@@ -45,3 +45,5 @@ Outside client work I run a self-hosted *AI Factory* at home — a little crew o
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=haseebuchiha&show_icons=true&hide_border=true&bg_color=00000000&title_color=f59e0b&icon_color=f59e0b&text_color=888888&hide=contribs&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebuchiha&layout=compact&hide_border=true&bg_color=00000000&title_color=f59e0b&text_color=888888&langs_count=8" />
 </p>
+
+<!-- profile -->
